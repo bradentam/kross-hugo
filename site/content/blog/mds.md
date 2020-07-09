@@ -6,7 +6,7 @@ description: "This is meta description."
 draft: false
 ---
 
-A year ago, I was very unsure about my future and what it entailed and now, I have officially completed my Master of Data Science from the University of British Columbia. Well... I'm still very unsure about my future especially with the current state of the world and COVID-19, however I am confident that this program has set a solid foundation for the start of my data science career. Rather than talking about the all the skills and tools that I learned over the past 10 months (because you can learn about the program [here](https://ubc-mds.github.io/about/)), I want this post to focus more on what I learned about myself and how MDS has shaped my data science journey. 
+A year ago, I was very unsure about my future and what it entailed and now, I have officially completed my Master of Data Science from the University of British Columbia. Well... I'm still very unsure about my future especially with the current state of the world and COVID-19, however I am confident that this program has set a solid foundation for the start of my data science career. Rather than talking about all the skills and tools that I learned over the past 10 months (because you can learn about the program [here](https://ubc-mds.github.io/about/)), I want this post to focus more on what I learned about myself and how MDS has shaped my data science journey. 
 
 #### What I learned
 
