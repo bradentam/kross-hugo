@@ -1,0 +1,79 @@
+# default configuration
+baseURL = "https://bradentam.netlify.app"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross-hugo"
+title = ""
+
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+URL = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+
+
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+
+# [[menu.main]]
+# URL = "contact"
+# name = "Contact"
+# weight = 3
+
+
+# default parameters
+[params]
+home = "Home"
+
+# theme color
+theme_color = "#42528e"
+# contact info
+phone = "778-898-6626"
+email = "btam97@gmail.com"
+address = "Vancouver, BC"
+# meta description
+author = "Braden Tam"
+description = "This is meta description"
+# google analytics
+google_analytics_id = "" # Your ID
+# copyright
+copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+
+
+# contact
+[params.contact]
+enable = true
+form_action = "#" # contact form works with : https://formspree.io
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "" # use png, jpg, svg or gif format
+
+[[params.social]]
+icon = "ti-github"
+URL = "github.com/bradentam/"
+
+# social site
+[[params.social]]
+icon = "ti-linkedin"
+URL = "linkedin.com/in/bradentam/"
+
+# [[params.social]]
+# icon = "ti-instagram"
+# URL = "instagram.com/b.tam/"

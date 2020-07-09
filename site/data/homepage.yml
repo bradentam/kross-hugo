@@ -1,0 +1,140 @@
+# banner
+banner:
+  title : "BRADEN TAM <br> data enthousiast <br> & aspiring <br> data scientist"
+
+# about
+about:
+  enable : true
+  content : "Hey there, welcome to my personal website! I was born and raised in Vancouver and right after finishing high school, I flew over to Toronto and studied Statistics and Global Health at the University of Toronto. My interest in data science sparked in my final year when I took a course called Statistical Consultation, Communication, and Collaboration. In this course, I helped with the stastitical aspects of a research project within the department of Human Biology. I realized that this project closely resembled data science which led me to pursue a Master of Data Science at the University of British Columbia. This program has set a solid foundation for the start of my career as I've learned the theory essential tools used within data science from data wrangling to the state-of-the-art machine learning algorithms. We've even gotten into topics that are generally not immediately thought of such as data privacy, ethics, and security, which will be critically important with greater integration of technology within society in the future. I am interested in trying to understand problems holistically and putting the pieces together to figure out the best ways to make data useful and insightful for the specific problem at hand. Aside from data science, I am a major foodie and love any form of physical activity such as powerlifting, basketball, ultimate frisbee, biking, and hiking. I also love to play the piano and guitar during my downtime."
+
+
+# skill
+skill:
+  enable : false
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : false
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior UX Designer"
+      company : "WEBEX"
+      duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "UX & UI Designer"
+      company : "AUGMEDIX"
+      duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior UI Designer"
+      company : "THEMEFISHER"
+      duration : "Sep 2014 - Present"
+
+# education
+education:
+  enable : true
+  title : "Education"
+  item:
+    - title : "Master of Data Science"
+      year : "2019-2020"
+      academy : "University of British Columbia"
+      
+    - title : "Honours in Statistics and Global Health"
+      year : "2015-2019"
+      academy : "University of Toronto"
+  
+
+# service
+service:
+  enable : false
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+
+# # testimonial
+# testimonial:
+#   enable : true
+#   title : "Testimonials"
+#   item:
+#     - name : "Jesica Gomez"
+#       image : "images/testimonial/client-1.png"
+#       designation : "CEO, Funder"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+#     - name : "Shirley Scot"
+#       image : "images/testimonial/client-1.png"
+#       designation : "CEO, Funder"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+#     - name : "Jessica Julie"
+#       image : "images/testimonial/client-1.png"
+#       designation : "CEO, Funder"
+#       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  item:
+
+    - logo : "images/tools/pynumpy.png"
+      URL : "#"
+
+    - logo : "images/tools/pandas.png"
+      URL : "#"
+      
+    - logo : "images/tools/scikit.png"
+      URL : "#"
+
+    - logo : "images/tools/tensorflow.png"
+      URL : "#"
+
+    - logo : "images/tools/keras.png"
+      URL : "#"
+            
+    - logo : "images/tools/rtidyverse.png"
+      URL : "#"
+
+    - logo : "images/tools/spark.png"
+      URL : "#"
+
+    - logo : "images/tools/docker.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
