@@ -3,7 +3,7 @@ baseURL = "https://bradentam.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = ""
+title = "BT"
 
 # css plugins
 [[params.plugins.css]]
@@ -41,7 +41,7 @@ weight = 2
 home = "Home"
 
 # theme color
-theme_color = "#20C0DC"
+theme_color = "#1dafc9"
 # contact info
 phone = "778-898-6626"
 email = "btam97@gmail.com"
@@ -62,17 +62,17 @@ form_action = "#" # contact form works with : https://formspree.io
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use png, jpg, svg or gif format
 
 [[params.social]]
 icon = "ti-github"
-URL = "github.com/bradentam/"
+URL = "https://github.com/bradentam/"
 
 # social site
 [[params.social]]
 icon = "ti-linkedin"
-URL = "linkedin.com/in/bradentam/"
+URL = "https://linkedin.com/in/bradentam/"
 
 # [[params.social]]
 # icon = "ti-instagram"
