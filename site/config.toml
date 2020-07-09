@@ -3,7 +3,7 @@ baseURL = "https://bradentam.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = ""
 
 # css plugins
 [[params.plugins.css]]
@@ -41,7 +41,7 @@ weight = 2
 home = "Home"
 
 # theme color
-theme_color = "#42528e"
+theme_color = "#20C0DC"
 # contact info
 phone = "778-898-6626"
 email = "btam97@gmail.com"
@@ -57,7 +57,7 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 
 # contact
 [params.contact]
-enable = true
+enable = false
 form_action = "#" # contact form works with : https://formspree.io
 
 # preloader
